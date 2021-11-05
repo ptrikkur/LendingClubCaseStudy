@@ -1,5 +1,7 @@
-# Project Name
+# Lending Club Case Study
 > Outline a brief description of your project.
+> Manepalli Jagadeesh
+> Poornima T A
 
 
 ## Table of Contents
@@ -42,7 +44,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ptrikkur] - feel free to contact me!
 
 
 <!-- Optional -->
