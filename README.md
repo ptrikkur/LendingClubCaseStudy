@@ -37,6 +37,6 @@
 
 
 ## Contact
-Created by [@ptrikkur] - feel free to contact me!
+Created by [@ptrikkur,@cdacjitthu] - feel free to contact us!
 
 
